@@ -58,7 +58,8 @@ body {
     overflow-x: hidden;
     font-size: 34px;
     padding: 20px;
-    font-family: 'Dancing Script', cursive !important;
+    font-family: 'Dancing Script', cursive !important;  
+    text-align: center;
 }
 
 .myAI {
